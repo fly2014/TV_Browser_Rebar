@@ -16,4 +16,4 @@ Rebar TV Browser 钢筋电视浏览器 家庭娱乐多媒体播放工具，适�
 无法扫码：安装app和电视链接wifi后拔掉电源重启一次！
 
 钢筋电视浏览器介绍：https://tv.gjllq.com/
-releases版本下载：https://github.com/fly2014/Rebar_TV_Browser/releases/tag/v23
+[releases版本下载：https://github.com/fly2014/Rebar_TV_Browser/releases/tag/v23](https://github.com/fly2014/TV_Browser_Rebar/releases)
